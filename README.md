@@ -1,0 +1,1 @@
+A diverse ensemble of machine learning algorithms—Logistic Regression, Decision Trees, Naive Bayes, Random Forest and hyperparameter-tuned the models for evaluations, including accuracy and precision metrics. 
