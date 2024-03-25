@@ -9,9 +9,9 @@
 - naive_bayes with random_forest
 - knn
 
-#### Model Evaluation: confusion_matrix
+### Model evaluation: confusion_matrix
 
-#### Hypertuning
+### Hyperparameter tuning: GridsearchCV
 
-#### Model comparison based on metric : f1_score
+### Model comparison based on metric : f1_score
 
